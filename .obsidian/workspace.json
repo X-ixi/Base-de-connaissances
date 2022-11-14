@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "fa1c47c7a6852026",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd557c59cc7907bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9e570966d1b49f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cours/Cryptographie/(Crypto) 3 - Chiffrement asymétrique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f999cb4cbf8c2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0dd1518197a4ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "929802a845cbe230",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d3eff8709372fd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7043091c7b2bcaa4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "744c89841f417303",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6e0f77ecbd92c3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "783eb1df11b90748",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cours/Cryptographie/(Crypto) 3 - Chiffrement asymétrique.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d2cd2b0e67e9815",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cours/Cryptographie/(Crypto) 3 - Chiffrement asymétrique.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f304831011959eff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "60d32459c1ba5962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cours/Cryptographie/(Crypto) 3 - Chiffrement asymétrique.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8c9e570966d1b49f",
+  "lastOpenFiles": [
+    "cours/Cryptographie/(Crypto) 2 - Chiffrement symétrique.md",
+    "cours/Cryptographie/(Crypto) 3 - Chiffrement asymétrique.md",
+    "cours/Cryptographie/(Crypto) 4 - Intégrité symétrique et hachage.md",
+    "cours/Cryptographie/(Crypto) 5 - Signature.md",
+    "cours/Cryptographie/(Crypto) 6 - Authentification.md",
+    "cours/Cryptographie/(Crypto) 7 - Quantique et cryptographie.md",
+    "cours/Cryptographie/(Crypto) 1 - Introduction.md",
+    "cours/OS/(OS) 4 - Synchronisation.md",
+    "cours/OS/(OS) 1 - Introduction.md",
+    "cours/OS/(OS) 2 - xv6 et interruptions.md"
+  ]
+}
