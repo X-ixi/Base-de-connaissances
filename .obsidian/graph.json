@@ -20,13 +20,6 @@
         "a": 1,
         "rgb": 14725458
       }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
     }
   ],
   "collapse-display": true,
@@ -34,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.440104166666667,
   "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
+  "linkStrength": 0.171875,
+  "linkDistance": 256,
   "scale": 1,
   "close": true
 }
