@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "(OS)",
+      "query": "(OS) OR (Viro)",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -28,10 +28,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.440104166666667,
-  "repelStrength": 10,
+  "centerStrength": 0.145833333333333,
+  "repelStrength": 5.9375,
   "linkStrength": 0.171875,
   "linkDistance": 256,
-  "scale": 1,
+  "scale": 0.7118887688030607,
   "close": true
 }

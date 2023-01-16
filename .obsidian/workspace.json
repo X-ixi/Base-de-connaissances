@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "94a6fff7812f7634",
+        "id": "e073aff1908c346e",
         "type": "tabs",
         "children": [
           {
-            "id": "8c8ab075c3534181",
+            "id": "bc8954f4b60be040",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cours/OS/(OS) 3 - Ordonnancement.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f6f65c0479c9d7f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45ac2529c2f00ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cours/OS/(OS) 0 - Questions de cours.md",
+                "file": "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "744c89841f417303",
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cours/OS/(OS) 0 - Questions de cours.md",
+                "file": "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cours/OS/(OS) 0 - Questions de cours.md",
+                "file": "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cours/OS/(OS) 0 - Questions de cours.md"
+                "file": "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md"
               }
             }
           },
@@ -164,17 +145,28 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "45ac2529c2f00ac7",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc8954f4b60be040",
   "lastOpenFiles": [
-    "cours/OS/(OS) 3 - Ordonnancement.md",
-    "cours/OS/(OS) 0 - Questions de cours.md",
-    "cours/OS/(OS) 5 - Mémoire virtuelle.md",
-    "cours/OS/(OS) 2 - xv6 et interruptions.md",
-    "cours/OS/(OS) 1 - Introduction.md",
-    "cours/OS/(OS) 4 - Synchronisation.md",
-    "cours/Virologie/(Viro) 1 - x86.md",
-    "Sécurité cloud.md",
-    "STW.md",
-    "cours/Cryptographie/(Crypto) 3 - Chiffrement asymétrique.md"
+    "cours/Attaque en mémoire/(AttMem) 2 - Charge active.md",
+    "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md",
+    "cours/Attaque en mémoire/(AttMem) 1 - Expérimentations préliminaires.md",
+    "cours/Cryptographie appliquée/(Crypto) 1 - Protocoles cryptographiques.md",
+    "cours/Cryptographie/(Crypto) 6 - Authentification.md",
+    "cours/Cryptographie/(Crypto) 5 - Signature.md",
+    "cours/Cryptographie/(Crypto) 4 - Intégrité symétrique et hachage.md",
+    "cours/Détection d'intrusion/(Detec) 2 - CTI pour la détection.md",
+    "cours/Détection d'intrusion/(Detec) 3 - Machine Learning pour l'IDS.md",
+    "cours/(Cours) X - titre.md"
   ]
 }
