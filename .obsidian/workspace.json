@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e073aff1908c346e",
+        "id": "d6b71a137ce7dd30",
         "type": "tabs",
         "children": [
           {
-            "id": "bc8954f4b60be040",
+            "id": "69797b92dba15c6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md",
+                "file": "HackTheBox/Starting point/2 - Archetype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "463998d73059948e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HackTheBox/Starting point/4 - Vaccine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,12 +77,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5f1c467b4d5a7f40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "right": {
     "id": "744c89841f417303",
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md",
+                "file": "HackTheBox/Starting point/4 - Vaccine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md",
+                "file": "HackTheBox/Starting point/4 - Vaccine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md"
+                "file": "HackTheBox/Starting point/4 - Vaccine.md"
               }
             }
           },
@@ -156,17 +178,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc8954f4b60be040",
+  "active": "463998d73059948e",
   "lastOpenFiles": [
-    "cours/Attaque en mémoire/(AttMem) 2 - Charge active.md",
-    "cours/Attaque en mémoire/(AttMem) 3 - Contre mesures.md",
-    "cours/Attaque en mémoire/(AttMem) 1 - Expérimentations préliminaires.md",
+    "HackTheBox/Starting point/4 - Vaccine.md",
+    "HackTheBox/Starting point/2 - Archetype.md",
+    "HackTheBox/Starting point/1 - Responder.md",
+    "cheatsheets/gdb.md",
+    "HackTheBox/Starting point",
+    "HackTheBox",
+    "cours/Sécurité des OS/(SecuOS) 4 - Annuaire LDAP.md",
+    "cours/Sécurité des OS/(SecuOS) 9 - SE Linux.md",
+    "cours/Sécurité des OS/(SecuOS) 8 - GPO.md",
+    "cours/Sécurité des OS/(SecuOS) 7 - Administration sécurisée.md",
+    "cours/Sécurité des OS/(SecuOS) 6 - Systèmes de fichiers.md",
+    "cours/Sécurité des OS/(SecuOS) 5 - Kerberos et Active Directory.md",
+    "cours/Sécurité des OS/(SecuOS) 1 - Sécurité du démarrage.md",
+    "cours/Sécurité des OS/(SecuOS) 3 - Authentification locale Windows.md",
+    "cours/Sécurité web/(Web) 3 - Sécurité.md",
+    "cours/Sécurité des OS/(SecuOS) 2 - Authentification des systèmes *nix.md",
+    "cours/Cryptographie/(Crypto) 3 - Chiffrement asymétrique.md",
+    "cours/Sécurité des OS/images/SE_Linux.png",
+    "cours/Sécurité des OS/images/inode.png",
+    "cours/Sécurité web/(Web) 2 - Techno web.md",
+    "cours/Sécurité des OS/images/constrained_delegation.png",
+    "cours/Sécurité des OS/images/unconstrainted_delegation.png",
+    "cours/Sécurité des OS/images/kerberos_protocol.png",
+    "cours/Sécurité des OS/images/tgt.png",
     "cours/Cryptographie appliquée/(Crypto) 1 - Protocoles cryptographiques.md",
-    "cours/Cryptographie/(Crypto) 6 - Authentification.md",
-    "cours/Cryptographie/(Crypto) 5 - Signature.md",
-    "cours/Cryptographie/(Crypto) 4 - Intégrité symétrique et hachage.md",
-    "cours/Détection d'intrusion/(Detec) 2 - CTI pour la détection.md",
-    "cours/Détection d'intrusion/(Detec) 3 - Machine Learning pour l'IDS.md",
-    "cours/(Cours) X - titre.md"
+    "cours/Sécurité des OS/images/ldap dit.png",
+    "cours/Sécurité web/(SecuWeb) 3 - Flask.md",
+    "cours/Sécurité des OS/images/win_architecture.png",
+    "pentest/Physique/Bypass Windows session auth.md",
+    "pentest/Interne/Vulnérabilités.md",
+    "pentest/Interne/SMB.md",
+    "pentest/Interne/Imprimantes.md",
+    "pentest/Interne/Autres.md",
+    "pentest/Interne/Active Directory.md",
+    "pentest/Interne/1 - Découverte réseau.md",
+    "pentest/Externe/Web.md",
+    "pentest/Physique",
+    "pentest/Interne",
+    "pentest/Externe",
+    "pentest",
+    "cours/Sécurité des OS/images/secure boot.png",
+    "cours/Sécurité des OS/images/pam.png",
+    "cours/Sécurité des OS/images",
+    "cours/Sécurité des OS",
+    "cours/Sécurité web"
   ]
 }
